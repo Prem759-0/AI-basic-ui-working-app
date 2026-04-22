@@ -60,15 +60,5 @@ This project uses Tailwind CSS for styling with the following features:
 - `npm run dev` - Start development server on port 4028
 - `npm run build` - Build the application for production
 - `npm run start` - Start the development server
-- `npm run serve` - Start the production server
-- `npm run lint` - Run ESLint to check code quality
-- `npm run lint:fix` - Fix ESLint issues automatically
-- `npm run format` - Format code with Prettier
-
-## 📱 Deployment
-
-Build the application for production:
-
-  ```bash
-  npm run build
+- `npm run serve` - Start the production 
   ``` 

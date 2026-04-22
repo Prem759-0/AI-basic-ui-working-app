@@ -51,14 +51,8 @@ You can start editing the page by modifying `src/app/page.tsx`. The page auto-up
 
 This project uses Tailwind CSS for styling with the following features:
 - Utility-first approach for rapid development
-- Custom theme configuration
-- Responsive design utilities
-- PostCSS and Autoprefixer integration
 
-## 📦 Available Scripts
-
-- `npm run dev` - Start development server on port 4028
-- `npm run build` - Build the application for production
+` - Build the application for production
 - `npm run start` - Start the development server
 - `npm run serve` - Start the production 
   ``` 

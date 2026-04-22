@@ -42,17 +42,3 @@ nextjs/
 └── tailwind.config.js  # Tailwind CSS configuration
 
 ```
-
-## 🧩 Page Editing
-
-You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
-
-## 🎨 Styling
-
-This project uses Tailwind CSS for styling with the following features:
-- Utility-first approach for rapid development
-
-` - Build the application for production
-- `npm run start` - Start the development server
-- `npm run serve` - Start the production 
-  ``` 

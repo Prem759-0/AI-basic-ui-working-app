@@ -27,14 +27,5 @@ nextjs/
 
 ```
 
-## 🧩 Page Editing
-
-You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
-
-## 🎨 Styling
-
-This project uses Tailwind CSS for styling with the following features:
-- Utility-first approach for rapid  4028
-- `npm run build` - Build the application for production
 - `npm run start` - Start the development server
 - 

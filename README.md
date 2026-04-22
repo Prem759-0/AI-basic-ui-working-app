@@ -23,14 +23,4 @@ A modern Next.js 15 application built with TypeScript and Tailwind CSS.
   # or
   yarn dev
   ```
-3. Open [http://localhost:4028](http://localhost:4028) with your browser to see the result.
-
-## 📁 Project Structure
-
-```
-nextjs/
-├── public/             # Static assets
-├── src/
-│   ├── app/            # App router components
-│   │   ├── layout.tsx  # Root layout component
-│   │   └── page.tsx    # Main page 
+3. Open [http://localhost:4028](http://localhost:4028) with your browser to see the     # Main page 
